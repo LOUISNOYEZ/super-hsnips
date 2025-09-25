@@ -27,7 +27,7 @@
     ],
     "preview": true,
     "activationEvents": [
-        "*"
+        "onStartupFinished"
     ],
     "contributes": {
         "configuration": [
